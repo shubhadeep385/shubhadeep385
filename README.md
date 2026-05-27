@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @shubhadeep385
-- 👀 I’m interested in Programming, Dancing.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Programming Software
-- 📫 How to reach me : Email: infinite.coding.output3721.slg@gmail.com
+# 👋 Hey, I'm Shubhadeep
 
-<!---
-shubhadeep385/shubhadeep385 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Developer • Minecraft Server Enthusiast • Content Creator
+
+I love building cool projects, managing servers, and experimenting with new tech.
+From Minecraft infrastructure to web development, I enjoy creating things that actually work and look good.
+
+### 💻 What I Do
+
+* ⚡ Minecraft Server Setup & Optimization
+* 🌐 HTML, CSS & Web Projects
+* 🛠️ Hosting, Panels & Linux Stuff
+* 🎥 YouTube Content Creation
+* ☕ Learning something new every day
+
+### 📌 Current Focus
+
+* Improving my development skills
+* Building better server systems
+* Creating useful & fun projects
+
+> “Code. Create. Improve. Repeat.”
+
+⭐ Feel free to explore my repositories and drop a star if you like something!
